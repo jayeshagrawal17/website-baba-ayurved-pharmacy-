@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Testing
+test_*.py
+get_warehouse_ids.py
+
+# OS
+.DS_Store
